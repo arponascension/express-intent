@@ -58,6 +58,14 @@
     "rbac"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arponascension/express-intent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arponascension/express-intent/issues"
+  },
+  "homepage": "https://github.com/arponascension/express-intent#readme",
   "publishConfig": {
     "access": "public",
     "provenance": true,
