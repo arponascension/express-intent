@@ -1,6 +1,6 @@
 {
   "name": "express-intent",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Express middleware that converts API intent declarations into runtime decisions (allow, monitor, challenge, deny).",
   "type": "module",
   "main": "./dist/index.cjs",
